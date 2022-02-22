@@ -19,3 +19,24 @@ C:\SAE\Tool Dev\ToolDev-OCE\Serialization\Serialization\obj\Debug\net6.0-windows
 C:\SAE\Tool Dev\ToolDev-OCE\Serialization\Serialization\obj\Debug\net6.0-windows\Serialization.pdb
 C:\SAE\Tool Dev\ToolDev-OCE\Serialization\Serialization\obj\Debug\net6.0-windows\Serialization.genruntimeconfig.cache
 C:\SAE\Tool Dev\ToolDev-OCE\Serialization\Serialization\obj\Debug\net6.0-windows\ref\Serialization.dll
+C:\Users\x79\Documents\GitHub\Serialization\Serialization\bin\Debug\net6.0-windows\Serialization.exe
+C:\Users\x79\Documents\GitHub\Serialization\Serialization\bin\Debug\net6.0-windows\Serialization.deps.json
+C:\Users\x79\Documents\GitHub\Serialization\Serialization\bin\Debug\net6.0-windows\Serialization.runtimeconfig.json
+C:\Users\x79\Documents\GitHub\Serialization\Serialization\bin\Debug\net6.0-windows\Serialization.dll
+C:\Users\x79\Documents\GitHub\Serialization\Serialization\bin\Debug\net6.0-windows\Serialization.pdb
+C:\Users\x79\Documents\GitHub\Serialization\Serialization\obj\Debug\net6.0-windows\Serialization.csproj.AssemblyReference.cache
+C:\Users\x79\Documents\GitHub\Serialization\Serialization\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\x79\Documents\GitHub\Serialization\Serialization\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\x79\Documents\GitHub\Serialization\Serialization\obj\Debug\net6.0-windows\Serialization_MarkupCompile.cache
+C:\Users\x79\Documents\GitHub\Serialization\Serialization\obj\Debug\net6.0-windows\Serialization_MarkupCompile.lref
+C:\Users\x79\Documents\GitHub\Serialization\Serialization\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\x79\Documents\GitHub\Serialization\Serialization\obj\Debug\net6.0-windows\Serialization.g.resources
+C:\Users\x79\Documents\GitHub\Serialization\Serialization\obj\Debug\net6.0-windows\Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x79\Documents\GitHub\Serialization\Serialization\obj\Debug\net6.0-windows\Serialization.AssemblyInfoInputs.cache
+C:\Users\x79\Documents\GitHub\Serialization\Serialization\obj\Debug\net6.0-windows\Serialization.AssemblyInfo.cs
+C:\Users\x79\Documents\GitHub\Serialization\Serialization\obj\Debug\net6.0-windows\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\x79\Documents\GitHub\Serialization\Serialization\obj\Debug\net6.0-windows\Serialization.dll
+C:\Users\x79\Documents\GitHub\Serialization\Serialization\obj\Debug\net6.0-windows\refint\Serialization.dll
+C:\Users\x79\Documents\GitHub\Serialization\Serialization\obj\Debug\net6.0-windows\Serialization.pdb
+C:\Users\x79\Documents\GitHub\Serialization\Serialization\obj\Debug\net6.0-windows\Serialization.genruntimeconfig.cache
+C:\Users\x79\Documents\GitHub\Serialization\Serialization\obj\Debug\net6.0-windows\ref\Serialization.dll

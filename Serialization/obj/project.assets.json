@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\surfa\\.nuget\\packages\\": {}
+    "C:\\Users\\x79\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SAE\\Tool Dev\\ToolDev-OCE\\Serialization\\Serialization\\Serialization.csproj",
+      "projectUniqueName": "C:\\Users\\x79\\Documents\\GitHub\\Serialization\\Serialization\\Serialization.csproj",
       "projectName": "Serialization",
-      "projectPath": "C:\\SAE\\Tool Dev\\ToolDev-OCE\\Serialization\\Serialization\\Serialization.csproj",
-      "packagesPath": "C:\\Users\\surfa\\.nuget\\packages\\",
-      "outputPath": "C:\\SAE\\Tool Dev\\ToolDev-OCE\\Serialization\\Serialization\\obj\\",
+      "projectPath": "C:\\Users\\x79\\Documents\\GitHub\\Serialization\\Serialization\\Serialization.csproj",
+      "packagesPath": "C:\\Users\\x79\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\x79\\Documents\\GitHub\\Serialization\\Serialization\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\surfa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\x79\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

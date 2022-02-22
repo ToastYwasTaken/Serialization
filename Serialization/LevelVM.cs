@@ -86,6 +86,7 @@ namespace Serialization
             {
                 binaryFormatter.Deserialize(fileStream);
             }
+            PropertyChanged.Invoke(this, new PropertyChangedEventArgs(null));
         }
     }
 }

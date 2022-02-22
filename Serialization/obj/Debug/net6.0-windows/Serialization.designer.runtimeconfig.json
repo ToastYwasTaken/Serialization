@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\surfa\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\surfa\\.nuget\\packages"
+      "C:\\Users\\x79\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\x79\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
