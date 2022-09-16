@@ -7,10 +7,16 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 
+
 namespace Serialization
 {
     public class LevelVM : INotifyPropertyChanged
     {
+        /// <summary>
+        /// Serializes a level
+        /// -> Level is converted into a stream of bytes, saved locally 
+        /// and can later be loaded back into the application
+        /// </summary>
         private Level level;
         public event PropertyChangedEventHandler? PropertyChanged = (s, a) => { };
         public LevelVM()

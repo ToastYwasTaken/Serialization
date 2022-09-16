@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\x79\\Documents\\GitHub\\Serialization\\Serialization\\Serialization.csproj": {}
+    "C:\\Users\\Franz Surface6Pro\\OneDrive\\Documents\\Important_Own_Programs\\csharp\\Serialization\\Serialization\\Serialization.csproj": {}
   },
   "projects": {
-    "C:\\Users\\x79\\Documents\\GitHub\\Serialization\\Serialization\\Serialization.csproj": {
+    "C:\\Users\\Franz Surface6Pro\\OneDrive\\Documents\\Important_Own_Programs\\csharp\\Serialization\\Serialization\\Serialization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\x79\\Documents\\GitHub\\Serialization\\Serialization\\Serialization.csproj",
+        "projectUniqueName": "C:\\Users\\Franz Surface6Pro\\OneDrive\\Documents\\Important_Own_Programs\\csharp\\Serialization\\Serialization\\Serialization.csproj",
         "projectName": "Serialization",
-        "projectPath": "C:\\Users\\x79\\Documents\\GitHub\\Serialization\\Serialization\\Serialization.csproj",
-        "packagesPath": "C:\\Users\\x79\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\x79\\Documents\\GitHub\\Serialization\\Serialization\\obj\\",
+        "projectPath": "C:\\Users\\Franz Surface6Pro\\OneDrive\\Documents\\Important_Own_Programs\\csharp\\Serialization\\Serialization\\Serialization.csproj",
+        "packagesPath": "C:\\Users\\Franz Surface6Pro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Franz Surface6Pro\\OneDrive\\Documents\\Important_Own_Programs\\csharp\\Serialization\\Serialization\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\x79\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Franz Surface6Pro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +61,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
